@@ -20,6 +20,15 @@ The dataset is obtained from Kaggle. <br />
 2. Clean contractions and Define customized stopword list <br /> 
 3. Import SnowballStemmer. <br /> 
 
+<br />
+<img src="https://github.com/chloecode86/Deep_Learning-NLP_Sentiment_Analysis/blob/main/images/wordcloud.png" width="480" height="240"> <br /> 
+<br />
+<img src="https://github.com/chloecode86/Deep_Learning-NLP_Sentiment_Analysis/blob/main/images/unigram.png" width="620" height="340"> <br /> 
+<br />
+<img src="https://github.com/chloecode86/Deep_Learning-NLP_Sentiment_Analysis/blob/main/images/bigram.png" width="620" height="340"> <br /> 
+
+
+
 #### Models Used
 1. Naive Bayes (after stratified K-fold cross validation) <br /> 
 F1 score: 89.12% <br /> 
