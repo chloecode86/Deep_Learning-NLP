@@ -1,10 +1,7 @@
-# Deep_Learning-NLP
-Sentiment Analysis on Amazon Reviews
-
-# Amazon_NLPSentimentAnalysis
+# Amazon_NLP_Sentiment_Analysis
 
 ### Sentiment Analysis on Amazon Reviews <br />
-<img src="https://github.com/hiuc1999/Amazon_NLPSentimentAnalysis/blob/main/image/amazon%20review.jpeg" width="600" height="280"> <br /> 
+<img src="https://github.com/chloecode86/Deep_Learning-NLP/blob/main/images/amazon%20review.jpeg" width="600" height="280"> <br /> 
 
 #### Business Objective
 1. Boost Sales by better marketing tatics <br />
@@ -16,7 +13,7 @@ Sentiment Analysis on Amazon Reviews
 #### Data Collection
 The dataset is obtained from Kaggle. <br /> 
 <br />
-<img src="https://github.com/hiuc1999/Amazon_NLPSentimentAnalysis/blob/main/image/Kaggle.png" width="620" height="180"> <br /> 
+<img src="https://github.com/chloecode86/Deep_Learning-NLP/blob/main/images/Kaggle.png" width="620" height="180"> <br /> 
 
 #### Data Preprocessing
 1. Create a binary column and define score > 3 is positive else negative. <br /> 
