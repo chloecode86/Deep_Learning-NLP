@@ -30,6 +30,7 @@ The dataset is obtained from Kaggle. <br />
 
 
 #### Models Used
+The models below predicted the sentiment of reviews with binary class (positive or negative) with the accuracy calculated as below:
 1. Naive Bayes (after stratified K-fold cross validation) <br /> 
 F1 score: 89.12% <br /> 
 
